@@ -2,7 +2,6 @@
 """
 Created on Thu Oct 29 20:51:27 2015
 
-@author: JunjieLiao
 """
 
 import urllib
