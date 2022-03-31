@@ -2,7 +2,6 @@
 """
 Created on Wed Oct 28 19:19:37 2015
 
-@author: JunjieLiao
 """
 
 import re
